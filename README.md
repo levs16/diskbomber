@@ -1,0 +1,5 @@
+# diskbomber
+Bomb your mac/linux pc using this shell script!
+
+!!I AM NOT RESPONSIBLE FOR ANY CONSEQUENCES AFTER YOU USE THIS SCRIPT!!
+!!ONLY FOR EDUCATIONAL AND NON-COMMERCIAL PURPOSES!!
